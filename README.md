@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="github favorites" src="https://i.imgur.com/JRUiSAQ.png" width="80%">
+  <img alt="github favorites" src="https://i.imgur.com/JRUiSAQ.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias

@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="github favorites" src="" width="80%">
+  <img alt="github favorites" src="https://i.imgur.com/JRUiSAQ.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação onde o usuário busca e favorita outros usuários do github.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://nahblue.github.io/js-github-favorites/)
 
 ## :memo: Licença
 
